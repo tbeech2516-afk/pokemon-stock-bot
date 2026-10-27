@@ -1,0 +1,5 @@
+node_modules/
+vendor/
+out.mp4
+*.mp4
+renders/

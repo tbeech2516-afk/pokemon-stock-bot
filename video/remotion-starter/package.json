@@ -1,0 +1,21 @@
+{
+  "name": "remotion-test",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "studio": "remotion studio",
+    "render": "remotion render src/index.ts Main out.mp4"
+  },
+  "dependencies": {
+    "remotion": "4.0.539",
+    "@remotion/cli": "4.0.539",
+    "@remotion/transitions": "4.0.539",
+    "@remotion/media-utils": "4.0.539",
+    "react": "19.1.0",
+    "react-dom": "19.1.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.0",
+    "@types/react": "^19.1.0"
+  }
+}
